@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Aditi Chetty.
+My name is Aditi.
 
-I work as a consultant at Deloitte in the field of Applied AI and analytics. I love learning about data science and machine learning, and using data science techniques to generate meaningful and impactful insights from data.
+🌱  I work in applied AI and analytics. I love learning about AI and machine learning, and applying data science techniques to generate meaningful and impactful insights from data.
 
-I can code in Python, SQL and SAS.
+⚡ I can code in Python, SQL and SAS.
 
 
 
